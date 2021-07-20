@@ -1,0 +1,8 @@
+#! /bin/sh
+
+read ini
+read end
+
+while [$ini ]
+
+      eval analyzer replay_coinc_new.C
