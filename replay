@@ -1,0 +1,2 @@
+#! /bin/bash
+analyzer 'replay_coinc_new.C('$RUNNUM')'
